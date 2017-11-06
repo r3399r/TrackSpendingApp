@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">怡甄的儲值機</string>
+    <string name="total">目前餘額:</string>
+    <string name="add">儲值</string>
+    <string name="minus">扣錢</string>
+    <string name="historicalData">觀看歷史記錄</string>
+    <string name="money">金額：</string>
+    <string name="textPS">備註：</string>
+</resources>
